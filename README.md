@@ -17,18 +17,11 @@ Currently working on projects related to **anime** and exploring new tech! :spar
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
 
+- Build **projects** using Python, Flutter, Godot, Rust & Go  
+- Improve **full-stack development skills**  
+- Explore **game development & interactive experiences**
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=lminimum&show_icons=true&theme=radical"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lminimum&layout=compact&theme=radical"/>
 </div>
-
-
-- Build **anime-related projects** using Flutter, Godot, Rust & Go  
-- Improve **full-stack development skills**  
-- Explore **game development & interactive experiences**
-
-I enjoy combining **anime** aesthetics with **modern tech**, like building interactive apps, mini-games, or creative dashboards. :sparkles:  
-
-![Anime Gif](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
-
