@@ -19,22 +19,12 @@ Currently working on projects related to **AI** and exploring new tech! :sparkle
 - Improve **full-stack development skills**
 - Explore **game development & interactive experiences**
 
-<details open>
-<summary align="center"><strong>📦 Lines</strong></summary>
+<details>
+<summary align="center"><strong>metrics</strong></summary>
 
 <div align="center">
 
 ![Lines](./metrics.plugin.lines.svg)
-
-</div>
-</details>
-
-<details>
-<summary align="center"><strong> Lines + History</strong></summary>
-
-<div align="center">
-
-![Lines History](./metrics.plugin.lines.history.svg)
 
 </div>
 </details>
