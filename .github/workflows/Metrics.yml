@@ -1,0 +1,8 @@
+name: Compact display in base plugin
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.lines.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: 仓库
+  plugin_lines: yes
+  plugin_lines_delay: 30
