@@ -3,7 +3,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=lminimum&color=blueviolet)](https://github.com/lminimum)
 
 I'm **21 y.o** ([Portfolio](https://lminimum.github.io)) and a big anime fan 👻  
-Currently working on projects related to **anime** and exploring new tech! :sparkles:
+Currently working on projects related to **AI** and exploring new tech! :sparkles:
 
 ---
 
@@ -25,3 +25,10 @@ Currently working on projects related to **anime** and exploring new tech! :spar
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=lminimum&show_icons=true&theme=radical"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lminimum&layout=compact&theme=radical"/>
 </div>
+
+---
+
+###  A Ten-Year Promise: 
+- After ten years of perseverance and hard work, I will reap even greater rewards and become a better version of myself.
+<!--progress-->
+<!--endprogress-->
