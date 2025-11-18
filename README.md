@@ -19,8 +19,25 @@ Currently working on projects related to **AI** and exploring new tech! :sparkle
 - Improve **full-stack development skills**
 - Explore **game development & interactive experiences**
 
-![Metrics](/metrics.plugin.lines.history.svg)
-![Metrics](/metrics.plugin.lines.svg)
+<details open>
+<summary align="center"><strong>📦 Lines</strong></summary>
+
+<div align="center">
+
+![Lines](./metrics.plugin.lines.svg)
+
+</div>
+</details>
+
+<details>
+<summary align="center"><strong> Lines + History</strong></summary>
+
+<div align="center">
+
+![Lines History](./metrics.plugin.lines.history.svg)
+
+</div>
+</details>
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=lminimum&show_icons=true&theme=radical"/>
