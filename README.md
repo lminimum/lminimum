@@ -1,13 +1,34 @@
-### Hi there 👋
+### Hi there 👋, I'm Lachille!
 
-I'm Lachille ([21](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) ! :sunglasses:
+[![Profile Views](https://komarev.com/ghpvc/?username=lminimum&color=blueviolet)](https://github.com/lminimum)
 
-I'd like to do project that has relation to anime. :ghost:
+I'm **21 y.o** ([Portfolio](https://lminimum.github.io)) and a big anime fan 👻  
+Currently working on projects related to **anime** and exploring new tech! :sparkles:
 
-:page_with_curl: I'm currently learning:
-<br><br>
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+---
+
+### 🛠️ I'm currently learning:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/>
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+</div>
+
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lminimum&show_icons=true&theme=radical"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lminimum&layout=compact&theme=radical"/>
+</div>
+
+
+- Build **anime-related projects** using Flutter, Godot, Rust & Go  
+- Improve **full-stack development skills**  
+- Explore **game development & interactive experiences**
+
+I enjoy combining **anime** aesthetics with **modern tech**, like building interactive apps, mini-games, or creative dashboards. :sparkles:  
+
+![Anime Gif](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+
