@@ -1,7 +1,7 @@
 import datetime
-import base64
 import re
 
+# 计算十年进度
 start = datetime.date(2025, 1, 1)
 end = datetime.date(2035, 1, 1)
 today = datetime.date.today()
@@ -10,34 +10,29 @@ passed_days = (today - start).days
 progress = min(max(passed_days / total_days, 0), 1)
 percent = int(progress * 100)
 
-width, height = 400, 30
-filled_width = int(width * progress)
+# 生成 ASCII 进度条
+def generate_progress_bar(length=30):
+    # 使用粉色方块字符 ▓（GitHub 渲染偏粉色），未完成部分用 ░
+    filled_length = int(progress * length)
+    bar = '▓' * filled_length + '░' * (length - filled_length)
+    return f'{{ {bar} }}'
 
-svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff80bf;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ff0080;stop-opacity:1" />
-    </linearGradient>
-    <radialGradient id="stars" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="white" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="white" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="{width}" height="{height}" fill="#1a1a2e" rx="15" ry="15"/>
-  <rect width="{filled_width}" height="{height}" fill="url(#grad)" rx="15" ry="15"/>
-  <text x="{width/2}" y="{height/2+5}" font-size="14" text-anchor="middle" fill="white">{percent}%</text>
-</svg>'''
+progress_bar = generate_progress_bar()
 
-svg_base64 = base64.b64encode(svg_content.encode('utf-8')).decode('utf-8')
-markdown_img = f'![Progress](data:image/svg+xml;base64,{svg_base64})'
+# 生成 Markdown 内容
+markdown_progress = f"""\
+Progress: {progress_bar} {percent}%
 
+Updated on {today.strftime('%Y-%m-%d')}
+"""
+
+# 更新 README.md
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
 content = re.sub(
     r'<!--progress-->.*?<!--endprogress-->',
-    f'<!--progress-->\n{markdown_img}\n<!--endprogress-->',
+    f'<!--progress-->\n{markdown_progress}\n<!--endprogress-->',
     content,
     flags=re.DOTALL
 )
