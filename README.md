@@ -38,8 +38,8 @@ Currently working on projects related to **AI** and exploring new tech! :sparkle
 
 - After ten years of perseverance and hard work, I will reap even greater rewards and become a better version of myself.
   <!--progress-->
-Progress: { ▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░ } 8%
+Progress: { ▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░ } 9%
 
-Updated on 2025-11-25
+Updated on 2025-11-26
 
 <!--endprogress-->
